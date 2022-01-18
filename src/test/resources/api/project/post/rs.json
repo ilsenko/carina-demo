@@ -1,0 +1,9 @@
+{
+  "id": "regex:[\\d]",
+  "createdAt" : "type:String",
+  "name": "type:String",
+  "key": "SDQ",
+  "logoKey": "type:String",
+  "description": "description",
+  "publiclyAccessible": true
+}

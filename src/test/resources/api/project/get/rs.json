@@ -1,0 +1,8 @@
+{
+  "id": "regex:[\\d]",
+  "createdAt": "type:String",
+  "name": "type:String",
+  "key": "type:String",
+  "description": "type:String",
+  "publiclyAccessible": "type:Boolean"
+}

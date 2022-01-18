@@ -1,0 +1,42 @@
+{
+  "userId": 3,
+  "permissionsSuperset": [
+    "billing:org-plans:update",
+    "billing:payment-methods:update",
+    "billing:read",
+    "iam:api-tokens:read",
+    "iam:api-tokens:revoke",
+    "iam:invitations:delete",
+    "iam:invitations:read",
+    "iam:invitations:update",
+    "iam:users:delete",
+    "iam:users:read",
+    "projects:delete",
+    "projects:read",
+    "projects:update",
+    "reporting:company-logos:delete",
+    "reporting:company-logos:update",
+    "reporting:dashboards:access-private",
+    "reporting:filters:create-public",
+    "reporting:integrations:access-private",
+    "reporting:milestones:access-private",
+    "reporting:stacktrace-labels:assign",
+    "reporting:test-runs:access-private",
+    "reporting:test-sessions:token:refresh"
+  ],
+  "projectAssignments": [
+    {
+      "projectId": 6,
+      "role": "ADMINISTRATOR"
+    },
+    {
+      "projectId": 1,
+      "role": "ADMINISTRATOR"
+    }
+  ],
+  "authTokenType": "Bearer",
+  "authToken": "eyJhbGciOiJIUzUxMiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAH2ST2sCMRDFv0vOBpS2luYm9OKhLVhvpchsdnZNzT-SWamI370TtbKKekve_PIymbytyF0llHgQA9FlTB4c8tbYjJ6liMmZnE3wWagvURlrjW9VSK2MFnxWXayBkMn_UoSNQ0_SIS1DfQVICDVvDTgF0UgKK2SfW-qaF0fd-LUhoNKLqtEiXSv0fPryqYtSKO-8sDhIx8MxhR_U1ENOyiVx8k0YQ6LyPh1cBL-RNrShZ3ELuOJQQ15WARJPD7TGnGVMZn1JNcZSaVpzT4QydpU1-owwnrBNxwnccXLGYqbg8S6VCfSKEmiUFiq0DHMwWn8GERvJ1N2_bw9lPMRK7b-aB9skzEvxfRru4mBfwlSyt_3Xp7VQY7YLtgR18vo2fZ9-zmeT-cdM7AZn2OgWxrc0JmVa8B8YL1QDnPeBIPTgqRd_jn7ZgeM1_kZ2HD8OR8Pnl_HT7g8HcaeDOgMAAA.NwiN4yP65pJpvQ6CumO9EXDtYi9fV7pC0X0eFbCi1kLOM5zzqQh4GyAf5LUdbzautjKGpIQSTTcIJaYt0BRXuw",
+  "authTokenExpirationInSecs": 3600,
+  "refreshToken": "nuxEldORN2r2sQe4kXRBftr86mxujDU6Ouz1v2lJ8O8QFfD8UN",
+  "tenantName": "ilsen"
+}

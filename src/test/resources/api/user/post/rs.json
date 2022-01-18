@@ -1,0 +1,41 @@
+{
+  "userId": 3,
+  "permissionsSuperset": [
+    "billing:org-plans:update",
+    "billing:payment-methods:update",
+    "billing:read",
+    "iam:api-tokens:read",
+    "iam:api-tokens:revoke",
+    "iam:invitations:delete",
+    "iam:invitations:read",
+    "iam:invitations:update",
+    "iam:users:delete",
+    "iam:users:read",
+    "projects:delete",
+    "projects:read",
+    "projects:update",
+    "reporting:company-logos:delete",
+    "reporting:company-logos:update",
+    "reporting:dashboards:access-private",
+    "reporting:filters:create-public",
+    "reporting:integrations:access-private",
+    "reporting:milestones:access-private",
+    "reporting:stacktrace-labels:assign",
+    "reporting:test-runs:access-private",
+    "reporting:test-sessions:token:refresh"
+  ],
+  "projectAssignments": [
+    {
+      "projectId": 1,
+      "role": "ADMINISTRATOR"
+    },     {
+      "projectId": 7,
+      "role": "ADMINISTRATOR"
+    }
+  ],
+  "authTokenType": "Bearer",
+  "authToken": "skip",
+  "authTokenExpirationInSecs": 3600,
+  "refreshToken": "type:String",
+  "tenantName": "ilsen"
+}
